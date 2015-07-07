@@ -1,0 +1,18 @@
+.layout-transparent {
+  background: url('http://www.gratisography.com/pictures/204_1.jpg') center / cover;
+}
+.layout-transparent .mdl-layout__header,
+.layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+.center{
+  text-align:center;
+}
+.demo-card.mdl-card{
+  margin-top:25%;
+  width:100%;
+}
+
+
