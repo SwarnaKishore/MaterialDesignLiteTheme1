@@ -15,4 +15,17 @@
   width:100%;
 }
 
+.white{
+  color:white;
+}
+
+.demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+  }
+  .demo-card-square > .mdl-card__title {
+    color: #fff;
+    background:
+      url('http://libreshot.com/wp-content/uploads/2015/06/pencils-610x407.jpg') bottom right 15% no-repeat #46B6AC;
+  }
 
