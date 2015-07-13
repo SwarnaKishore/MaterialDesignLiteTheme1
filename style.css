@@ -1,5 +1,5 @@
 .layout-transparent {
-  background: url('http://www.gratisography.com/pictures/204_1.jpg') center / cover;
+  background: url('images/204H.jpg') center / cover;
 }
 .layout-transparent .mdl-layout__header,
 .layout-transparent .mdl-layout__drawer-button {
@@ -26,6 +26,6 @@
   .demo-card-square > .mdl-card__title {
     color: #fff;
     background:
-      url('http://libreshot.com/wp-content/uploads/2015/06/pencils-610x407.jpg') bottom right 15% no-repeat #46B6AC;
+      url('images/Office With iMac.jpg') bottom right 15% no-repeat #46B6AC;
   }
 
